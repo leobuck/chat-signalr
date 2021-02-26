@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+PpQKuXO0c1NRfXpcjvkldlz8jstsIP07RPjzNU9f9LjSvThnJihYeu8QYlNl/ntl0YlhmGilVWofXVNyyWgbg==",
+  "success": true,
+  "projectFilePath": "E:\\Source\\Repos\\estudos\\signalr\\Chat\\Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
